@@ -14,8 +14,6 @@ Python · TypeScript · pandas · NumPy · pytest · Git & GitHub Actions
 ### 📌 Projects
 - **[password-validator](https://github.com/00cerenbozkurt/password-validator)**: CLI tool that scores password strength, with retry logic
 - **[number-analyzer](https://github.com/00cerenbozkurt/number-analyzer)**: CLI tool for basic statistics on user input, with error handling
-- **[Zühre](https://github.com/00cerenbozkurt/zuhre-be-self-aware)**: Next.js + Gemini web/mobile app for tarot archetypes and self-awareness ([live demo](https://zuhre-be-self-aware.vercel.app))
-
 ### 🎯 Goals for 2027
 - Make regular contributions to open-source bioinformatics & quant libraries
 - Publish my own open-source tool on PyPI
